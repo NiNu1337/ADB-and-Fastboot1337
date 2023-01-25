@@ -1,18 +1,12 @@
 <p align="center"><img src="https://i.ibb.co/pj0Pnj7/ADB-and-Fastboot-Plus-Plus.png" width="200"></a>
 <h1 align="center"><b>ADB & Fastboot++</b></h1>
 <h4 align="center">A small Application for Windows that allows you to install the latest Version of ADB and Fastboot Files on the Computer without installing the entire Android SDK Package + Toolkit & Commands</h4>
-<br />
+<br/>
 
 <p align="center">
 <a href="https://forum.xda-developers.com/t/tool-windows-adb-fastboot-march-2022.3944288/" alt="XDA Thread"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a>
-<a href="" alt="Latest Release"><img src="https://img.shields.io/github/v/release/K3V1991/ADB-and-FastbootPlusPlus?color=blueviolet&label=Latest%20Release"></a>
-<a href="" alt="Downloads"><img src="https://img.shields.io/github/downloads/K3V1991/ADB-and-FastbootPlusPlus/total?color=green&label=Downloads"></a>
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HW8B98TVDLKWA" alt="Donate-PayPal"><img src="https://img.shields.io/badge/Donate-PayPal-blue"></a>
-<a href="https://github.com/K3V1991/Donate-Crypto/blob/main/README.md" alt="Donate-Crypto"><img src="https://img.shields.io/badge/Donate-Crypto-yellow"></a>
 </p>
 <hr>
-<br />
-<br />
 
 ## NFO:
 * Versions: Installer & Portable
@@ -102,23 +96,23 @@ adb devices
 2. Extract the Zip Archive
 3. Double click on Open CMD.bat
 4. You should see a Command Window open, now you can use ADB and Fastboot Commands
-<br />
-<br />
+<br/>
+<br/>
 
 ## Screenshots:
 <img src="https://i.ibb.co/C893W7r/License.png"></a>
-<br />
+<br/>
 
 <img src="https://i.ibb.co/DY3J282/Information.png"></a>
-<br />
+<br/>
 
 <img src="https://i.ibb.co/bNVRZqW/Tasks.png"></a>
-<br />
+<br/>
 
 <img src="https://i.ibb.co/T0jsgrf/Completing.png"></a>
-<br />
+<br/>
 
 <img src="https://i.ibb.co/KVQWfvP/Toolkit-Main.png"></a>
-<br />
+<br/>
 
 <img src="https://i.ibb.co/swGZZbj/Toolkit-Menu.png"></a>
